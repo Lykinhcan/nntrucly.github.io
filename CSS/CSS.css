@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+.CardName{
+		width: 290px;
+		height: 400px;
+		text-align: center;
+		margin: auto;
+		margin-top: 100px;
+		background-color: #FFFFFF;
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+		border-radius: 10px;
+		-webkit-box-shadow: 0px 0px 15px 1px rgba(71,67,71,1);
+		-moz-box-shadow: 0px 0px 15px 1px rgba(71,67,71,1);
+		box-shadow: 0px 0px 15px 1px rgba(71,67,71,1);
+		position: relative;
+		background:#FFFACD;
+	}
+.CardName img{
+	margin-top: 10px;
+}
+.Font1{
+		color: #111111;
+		text-align: center;
+		font-size: 20px;
+	}
+.Font2{
+	color: #6C7B8B;
+		text-align: center;
+		font-family: Tahoma;
+		font-size: 15px;
+}
+
+.LogoIcon img{
+	margin: 10px;
+}
